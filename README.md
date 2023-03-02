@@ -73,6 +73,7 @@ listas onde você poderá postar sua vaga também:
 
 - [Vagas para desenvolvedores no Ceará](https://github.com/CangaceirosDevels/vagas_de_emprego)
 - [Vagas para desenvolvedores em Feira de Santana/Bahia](https://github.com/devfsa/vagas)
+- [Vagas para desenvolvedores React no Rio de Janeiro](https://github.com/reactrio/vagas)
 - [Vagas para desenvolvedores Front-end (Angola)](https://github.com/frontend-ao/vagas)
 - [Vagas para desenvolvedores Back-end (Angola)](https://github.com/backend-ao/vagas)
 - [Vagas para desenvolvedores Front-end (Portugal)](https://github.com/frontend-pt/vagas)
