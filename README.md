@@ -5,6 +5,8 @@
 
  * Vagas disponíveis em https://github.com/react-native-drops/vagas/issues
 
+Você também pode [pesquisar e filtrar as vagas deste repositório no openings.dev](https://openings.dev/communities/react-native-drops/vagas). Cada resultado leva à issue original, com os detalhes atualizados e as instruções para candidatura.
+
 ### :office: Cadastrando uma vaga
 
 1. Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
